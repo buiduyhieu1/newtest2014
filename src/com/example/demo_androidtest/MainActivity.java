@@ -187,3 +187,4 @@ public class MainActivity extends Activity implements Runnable {
 //dm chan dai
 
 //Dm chan dai vo dung vai
+//cc
