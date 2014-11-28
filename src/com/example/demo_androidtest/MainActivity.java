@@ -181,7 +181,9 @@ public class MainActivity extends Activity implements Runnable {
 		point = -1;
 		super.onDestroy();
 	}
+
 }
 //chandai123
 //dm chan dai
 
+//Dm chan dai vo dung vai
